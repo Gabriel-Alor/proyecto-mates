@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+##ignorar archivos
+text1.txt
+##ignorar todos los .txt
+*.txt
