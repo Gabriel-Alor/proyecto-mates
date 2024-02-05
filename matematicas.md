@@ -8,3 +8,6 @@ Esto es una modificacionaaaaass. Y estoy haciendo unos progresos muy chulos que 
 
 estos son unos cambios que se aplicaran con rebase y han sido exitosos
 
+### Modificacion mediante git hub
+
+Esto es una modificacion hecha desde la web
