@@ -7,3 +7,5 @@ Segundo commitud
 Esto seran mis cambios para el pull request
 
 curso enfocado a la creacion de app con react
+
+Hice cambios desde la web
