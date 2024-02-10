@@ -9,3 +9,5 @@ Esto seran mis cambios para el pull request
 curso enfocado a la creacion de app con react
 
 Hice cambios desde la web
+
+estos son cambios procedentes de la rama de readme
